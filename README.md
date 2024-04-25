@@ -5,5 +5,5 @@ Making changes to push to my forked versions.
 
 Now I want to practice adding things. 
 
-Looks like I'm getting the hang of things.  I need to practice links now, using sphinx markup. 
+Looks like I'm getting the hang of things. 
 

@@ -12,3 +12,6 @@ Looks like I'm getting the hang of things.
 And now we add a link like so....
 
 I removed a line, and added a line. I want to practice command line git commands from a branch.
+
+
+I think this file is now done.  I've got a link added. We're good to go. 

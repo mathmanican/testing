@@ -4,7 +4,8 @@ A place to practice testing on github.
 Making changes to push to my forked versions.
 
 Now I want practice. 
-This is how we do it.
+
+But I think it should actually be done this way.  Sorry. 
 
 Looks like I'm getting the hang of things. 
 And now we add a link like so....

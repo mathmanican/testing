@@ -1,3 +1,3 @@
 adding a new file here.
 want to test commentaty features
-just chekcing
+just checking.

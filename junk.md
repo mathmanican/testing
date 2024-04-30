@@ -1,4 +1,4 @@
-Adding a new file here.
+Adding a new file.
 I want to test commentary features. 
-Just checking.
-How did it go?
+Just checking how it works.
+How did it go with batches?
